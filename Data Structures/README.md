@@ -13,6 +13,8 @@ Linked List - detect if it loops back on itself
 ### Level 3
 
 Make use-case specific hashing function to solve generic hashing problem
+Input size: 20 bits
+Must pass basic SUHA standards. 
 
 ### Level 4
 
