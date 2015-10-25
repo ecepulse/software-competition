@@ -2,7 +2,7 @@
 
 ## Security Competition
 
-### Level 1
+### Level 1 -
 
 Buffer overflows
 

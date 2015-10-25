@@ -20,6 +20,8 @@ Each category will have different requirements for each level of expertise.
 ## Teams
 You may do this individually, or in groups of size of 4 or fewer.
 
+Since the categories are very different from each other, you are encouraged to form teams such that your collective skills complement each other and cover as many categories as possible for your skill level.
+
 ## Scoring
 
 Final scoring will be a weighted aggregate of all the categories depending on the level of difficulty chosen.
@@ -28,9 +30,13 @@ Final scoring will be a weighted aggregate of all the categories depending on th
 
 Each level will have one winner, so there will be 4 winners in total. The prizes themselves will be determined soon.
 
+## Submission
+
+  1. Make a `run.sh` file that compiles and runs your code. For interpreted languages like Python, this will be as simple as running `python <script>.py`. However, for compiled languages like C and Java, this will require your code to compile successfully and immediately run. Each category folder should have a run.sh` file.
+  2. In the root of the folder, make a file called `team.txt` and put the names and NetIDs of all your team members. If you are working individually, put just your name and NetID.
+  3. Zip up all your files into 1 .zip file, and email it `aagandh2@illinois.edu` with the subject `ECE Pulse 2016 Software Competition Submission`. 
+
 ## Questions
-Facebook Events for each?
-Slack? Could get messy
-Ticketing system
+HelpQ
 
 Good luck, and have fun!
