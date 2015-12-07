@@ -16,4 +16,6 @@ Edit the `index.js` file to make AJAX calls and display the results.
 
 ### Level 4
 
-Make a chrome extension with the [CUMTD API](https://developer.cumtd.com/).
+Make a proof of concept demo to showcase one of the cool, [new HTML5 JavaScript APIs](http://www.htmlgoodies.com/html5/javascript/a-5-minute-overview-of-all-new-javascript-apis-in-html5.html). 
+
+This is purposely left open-ended; be creative!
