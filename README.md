@@ -44,6 +44,10 @@ Each level will have 1 winning team. All members of the winning team will get id
   3. In the root of the folder, make a file called `level.txt` and put the level you/your team is choosing to compete at.
   4. Zip up all your files into 1 .zip file, and email it `aagandh2@illinois.edu` with the subject `ECE Pulse 2016 Software Competition Submission`. 
 
+## Location
+
+Proctors will be in ECEB 2022, so you are encouraged to work there during the competition. However, you are free to work from anywhere, as you submit code over email. 
+
 ## Questions
 
 HelpQ
