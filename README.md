@@ -4,8 +4,7 @@
 
 Thanks for taking part in the ECE Pulse 2016 Software Competition! This year, the competition will be broken down in five categories: 
   * Web
-  * Security
-  * Networking
+  * Networking/Security
   * Algorithms
   * Data Structures
 
@@ -31,7 +30,12 @@ Final scoring will be a weighted aggregate of all the categories depending on th
 
 ## Prizes
 
-Each level will have one winning team, so there will be 4 winning teams in total. The prizes themselves will be announced closer to the competition date.
+Each level will have 1 winning team. All members of the winning team will get identical prizes.
+
+* Level 1: Chromecast (2nd gen)
+* Level 2: Chromecast (2nd gen)
+* Level 3: Audio Technica ATH-M30X
+* Level 4: Fitbit Flex
 
 ## Submission
 
@@ -44,4 +48,4 @@ Each level will have one winning team, so there will be 4 winning teams in total
 
 HelpQ
 
-Good luck, and have fun!
+## Good luck, and have fun!
