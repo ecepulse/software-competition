@@ -1,6 +1,6 @@
 # ECE Pulse Software Competition
 
-## Networking Competition
+## Networking/Security Competition
 
 ### Level 1
 
@@ -8,12 +8,12 @@ Send data over sockets
 
 ### Level 2
 
-Manipulating response headers
+Buffer overflows
 
 ### Level 3
 
-Write a server that actually processes get requests and sets headers accordingly
+Heartbleed emulation (bounds check buffer read overflow)
 
 ### Level 4
 
-To Be Determined
+Write a server that actually processes get requests (basic files) and sets headers accordingly
