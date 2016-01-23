@@ -16,7 +16,7 @@ In `level2.c` there is some vulnerable code. Compile it and try to get the outpu
 
 Run the level3 binary (must be on a Linux EWS Machine) to start the local server. You may have first have to run `chmod +x level3` in the terminal to get it to work.
 
-The server ("localhost", 8888 for port) is vulnerable to a bug similar to Heartbleed. Create a program to exploit this vulnerability to get the private key. You can send a string in the format "<WORD>-<Length>" and expect a response. For example, you can send "HELLO-5", and you will get the following response: "HELLO", under normal circumstances. 
+The server ("localhost", 8888 for port) is vulnerable to a bug similar to Heartbleed. Create a program to exploit this vulnerability to get the private key. You can send a string in the format "WORD-LENGTH" and expect a response. For example, you can send "HELLO-5", and you will get the following response: "HELLO", under normal circumstances. 
 
 If you can reveal the entire key, put the answer in a .txt file with your submission, along with your code. You might get bonus points if you can tell us what the meaning/importance of the key is!
 
