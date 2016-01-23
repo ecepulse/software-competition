@@ -50,6 +50,8 @@ Proctors will be in ECEB 2022, so you are encouraged to work there during the co
 
 ## Questions
 
-HelpQ
+You can submit questions to the link below regardless of location. If you're in ECEB 2022, just raise your hand!
+
+http://ecepulse.meteor.com/
 
 ## Good luck, and have fun!
