@@ -3,10 +3,11 @@
 ## Web Competition
 
 Your name is Alex Doe, and you are a photographer living in Champaign, IL. Due to an error on your server, your existing CSS has been deleted, and you can no longer edit any HTML. As a result, your portfolio website is broken. You can add JavaScript as needed, but cannot use external libraries other than the latest stable release of jQuery (which is already in index.html)
+Your images are thankfully still on the server.
 
 ### Level 1 - Styling
 
-You are given markup in `index.html`. If you view this in a web browser, it does not look pretty. Edit the `index.css` file in the `assets` folder to make the webpage look like a portfolio page again. Reminder: You can NOT edit anything but the CSS unless otherwise specified. You can use external resources such as web fonts and icon fonts (look at index.css for more info), but NOT external CSS libraries – we'll know if you did. Feel free to look around the internet for inspiration.
+You are given markup in `index.html`. If you view this in a web browser, it does not look pretty. Edit the `index.css` file in the `assets` folder to make the webpage look like a portfolio page again. Reminder: You can NOT edit anything but the CSS unless otherwise specified. You can use external resources such as web fonts and icon fonts (look at index.css for more info), but NOT external CSS libraries – we'll know if you did. Feel free to look around the internet for inspiration. You've also been given descriptive class names, but you don't have to work off of those.
 
 Judging Criteria: CSS code quality, and Web Design skills.
 
