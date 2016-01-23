@@ -44,7 +44,7 @@ Winners will be announced before the ECE Pulse Keynote speech, so make sure to c
   1. Make a `run.sh` file that compiles and runs your code. For interpreted languages like Python, this will be as simple as running `python <script>.py`. However, for compiled languages like C and Java, this will require your code to compile successfully and immediately run. Each category should have its own folder, and each folder should have a `run.sh` file or a .txt file explaining what the answer is.
   3. In the root of the folder, make a file called `team.txt` and put the names and NetIDs of all your team members. If you are working individually, put just your name and NetID. 
   3. In the root of the folder, make a file called `level.txt` and put the level you/your team is choosing to compete at.
-  4. Zip up all your files into one .zip file, and email it `aagandh2@illinois.edu` with the subject `ECE Pulse 2016 Software Competition Submission`. Your team may only make one submission per team, so make sure to send your email at the end.
+  4. Zip up all your files into one .zip file, and upload it [here](https://www.dropbox.com/request/PCcceSKpvpWtYMW4rVS9). Your team may only make one submission per team, so make sure to send your email at the end.
 
 
 ## Location
