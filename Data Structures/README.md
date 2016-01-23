@@ -4,7 +4,7 @@
 
 ### Level 1
 
-If you had to store your grocery list in an array or a linked-list, which one would you use? Write down your answer in the provided .txt.
+If you had to store your grocery list in an array or a linked-list, which one would you use? Write down your answer and reasoning why in the provided .txt.
 
 ### Level 2
 
