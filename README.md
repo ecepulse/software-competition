@@ -2,7 +2,7 @@
 
 ## Categories
 
-Thanks for taking part in the ECE Pulse 2016 Software Competition! This year, the competition will be broken down in five categories: 
+Thanks for taking part in the ECE Pulse 2016 Software Competition! This year, the competition will be broken down in four categories: 
   * Web
   * Networking/Security
   * Algorithms
@@ -46,7 +46,7 @@ Winners will be announced before the ECE Pulse Keynote speech, so make sure to c
   3. In the root of the folder, make a file called `level.txt` and put the level you/your team is choosing to compete at.
   4. Zip up all your files into 1 .zip file, and email it `aagandh2@illinois.edu` with the subject `ECE Pulse 2016 Software Competition Submission`. 
  
-Your team may only make one submission per team.
+Your team may only make one submission per team, so make sure to send your email at the end.
 
 ## Location
 
