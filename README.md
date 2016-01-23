@@ -39,7 +39,7 @@ Each level will have 1 winning team. All members of the winning team will get id
 
 ## Submission
 
-  1. Make a `run.sh` file that compiles and runs your code. For interpreted languages like Python, this will be as simple as running `python <script>.py`. However, for compiled languages like C and Java, this will require your code to compile successfully and immediately run. Each category folder should have a `run.sh` file.
+  1. Make a `run.sh` file that compiles and runs your code. For interpreted languages like Python, this will be as simple as running `python <script>.py`. However, for compiled languages like C and Java, this will require your code to compile successfully and immediately run. Each category should have its own folder, and each folder should have a `run.sh` file or a .txt file explaining what the answer is.
   2. In the root of the folder, make a file called `team.txt` and put the names and NetIDs of all your team members. If you are working individually, put just your name and NetID. 
   3. In the root of the folder, make a file called `level.txt` and put the level you/your team is choosing to compete at.
   4. Zip up all your files into 1 .zip file, and email it `aagandh2@illinois.edu` with the subject `ECE Pulse 2016 Software Competition Submission`. 
@@ -48,9 +48,9 @@ Each level will have 1 winning team. All members of the winning team will get id
 
 Proctors will be in ECEB 2022, so you are encouraged to work there during the competition. However, you are free to work from anywhere, as you submit code over email. 
 
-## Questions
+## Questions and Announcements
 
-You can submit questions to the link below regardless of location. If you're in ECEB 2022, just raise your hand!
+You can submit questions to the link below regardless of location. If you're in ECEB 2022, just raise your hand! Announcements will also be given here, so keep an eye on it!
 
 http://ecepulse.meteor.com/
 
