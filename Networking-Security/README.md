@@ -6,7 +6,7 @@
 
 Start the local server by running `python level1-server.py`, which operates on `localhost`, port 8888.
 
-Send the server ("localhost", 8080 for port) the following string, without quotes: "ECE PULSE 2016", and output the server's response. If it successfully prints out "Thanks for competing", you've succeeded in this challenge!
+Send the server the following string, without quotes: "ECE PULSE 2016", and output the server's response. If it successfully prints out "Thanks for competing", you've succeeded in this challenge!
 
 ### Level 2: Buffer overflows
 
