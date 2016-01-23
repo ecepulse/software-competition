@@ -38,4 +38,4 @@ You should reduce it as such
  
  Person C    0       0        0
  
- You are given skeletal C codes to assist you. Your code goes in level4.h where int parties in the number of people in your case, and int* solve is a parties^2 size array you need to simplify.
+ You are given skeletal C codes to assist you. Your code goes in level4.h where int parties in the number of people in your case, and int* solve is a parties^2 size array you need to simplify. The end result must have the sum of the absolute value of all array values as small as possible without someone giving or witholding money that is owned.

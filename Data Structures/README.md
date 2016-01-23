@@ -18,4 +18,4 @@ You may decide the interface and language for your dictionary, but you must prov
 
 ### Level 4
 
-Complete level 3 with a hash table, the catch is you must design the hash function! Your hash function should be deterministic and follow SUHA. You should try to avoid predictable collisions, and you're hash table needs to have a collision resolution strategy.
+Complete level 3 with a hash table, the catch is you must design the hash function! Your hash function should be deterministic and follow SUHA. You should try to avoid predictable collisions, and you'r hash table needs to have a collision resolution strategy.
