@@ -4,7 +4,9 @@
 
 ### Level 1: Send data over sockets
 
-Run the level1 (COMING SOON) binary (must be on a Linux EWS Machine) to start the local server. Send the server ("localhost", 8080 for port) the following string, without quotes: "ECE PULSE 2016", and output the server's response. If it successfully prints out "Thanks for competing", you've succeeded in this challenge!
+Start the local server by running `python level1-server.py`, which operates on `localhost`, port 8888.
+
+Send the server ("localhost", 8080 for port) the following string, without quotes: "ECE PULSE 2016", and output the server's response. If it successfully prints out "Thanks for competing", you've succeeded in this challenge!
 
 ### Level 2: Buffer overflows
 
