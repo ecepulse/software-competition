@@ -11,6 +11,8 @@ You are given markup in `index.html`. If you view this in a web browser, it does
 
 Judging Criteria: CSS code quality, and Web Design skills.
 
+Note: We'll replace your index.html with our own to standardize output and make sure you didn't change it.
+
 ### Level 2 - Dynamically updating images
 
 First, complete Level 1.
