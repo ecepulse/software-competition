@@ -4,7 +4,7 @@
 
 ### Level 1: Send data over sockets
 
-Run the level1 binary (must be on a Linux EWS Machine) to start the local server. Send the server ("localhost", 8080 for port) the following string, without quotes: "ECE PULSE 2016", and output the server's response. If it successfully prints out "Thanks for competing", you've succeeded in this challenge!
+Run the level1 (COMING SOON) binary (must be on a Linux EWS Machine) to start the local server. Send the server ("localhost", 8080 for port) the following string, without quotes: "ECE PULSE 2016", and output the server's response. If it successfully prints out "Thanks for competing", you've succeeded in this challenge!
 
 ### Level 2: Buffer overflows
 
@@ -12,7 +12,7 @@ In `level2.c` there is some vulnerable code. Compile it and try to get the outpu
 
 ### Level 3: Simplified Heartbleed Emulation
 
-Run the level3 binary (must be on a Linux EWS Machine) to start the local server. The server ("localhost", 8080 for port) is vulnerable to a bug similar to Heartbleed. Create a program to exploit this vulnerability to get the private key. You can send a string in the format "<WORD>-<Length>" and expect a response. For example, you can send "HELLO-5", and you will get the following response: "HELLO", under normal circumstances. 
+Run the level3 (COMING SOON) binary (must be on a Linux EWS Machine) to start the local server. The server ("localhost", 8080 for port) is vulnerable to a bug similar to Heartbleed. Create a program to exploit this vulnerability to get the private key. You can send a string in the format "<WORD>-<Length>" and expect a response. For example, you can send "HELLO-5", and you will get the following response: "HELLO", under normal circumstances. 
 
 ### Level 4: Simple HTTP Server
 
