@@ -2,7 +2,7 @@
 
 ## Web Competition
 
-Your name is Alex Doe, and you are a photographer living in Champaign, IL. Due to an error on your server, your existing CSS has been deleted, and you can no longer edit any HTML. As a result, your portfolio website is broken. You can add JavaScript as needed, but cannot use external libraries other than the latest stable release of jQuery (which is already in index.html)
+Your name is Alex Doe, and you are a photographer living in Champaign, IL. Due to an error on your server, your existing CSS has been deleted, and you can no longer edit any HTML. As a result, your portfolio website is broken. You can add JavaScript as needed, but cannot use external libraries other than the latest stable release of jQuery (which is already in index.html).
 Your images are thankfully still on the server.
 
 ### Level 1 - Styling
