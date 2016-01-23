@@ -12,7 +12,7 @@ Complete the skeletal file to detect if the linked list loops back on itself. Yo
 
 ### Level 3
 
-Implement a dictionary data structure that maps integers to strings with standard CRUD operations. For this user, it's better for reads to be as fast as possible than creation, updating, or deleting.
+Implement a dictionary data structure that maps integers to strings(i.e. integers are the keys, strings are the values) with standard CRUD operations. For this user, it's better for reads to be as fast as possible than creation, updating, or deleting.
 
 You may decide the interface and language for your dictionary, but you must provided a .txt of how we can test it. You may not use external libraries except those needed for string reading.
 
