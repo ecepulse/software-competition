@@ -14,7 +14,9 @@ In `level2.c` there is some vulnerable code. Compile it and try to get the outpu
 
 ### Level 3: Simplified Heartbleed Emulation
 
-Run the level3 (COMING SOON) binary (must be on a Linux EWS Machine) to start the local server. The server ("localhost", 8080 for port) is vulnerable to a bug similar to Heartbleed. Create a program to exploit this vulnerability to get the private key. You can send a string in the format "<WORD>-<Length>" and expect a response. For example, you can send "HELLO-5", and you will get the following response: "HELLO", under normal circumstances. 
+Run the level3 binary (must be on a Linux EWS Machine) to start the local server. The server ("localhost", 8888 for port) is vulnerable to a bug similar to Heartbleed. Create a program to exploit this vulnerability to get the private key. You can send a string in the format "<WORD>-<Length>" and expect a response. For example, you can send "HELLO-5", and you will get the following response: "HELLO", under normal circumstances. 
+
+If you can reveal the entire key, put the answer in a .txt file with your submission, along with your code. You might get bonus points if you can tell us what the meaning/importance of the key is!
 
 ### Level 4: Simple HTTP Server
 
